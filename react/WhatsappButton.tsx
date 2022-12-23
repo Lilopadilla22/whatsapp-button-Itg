@@ -30,7 +30,7 @@ const WhatsappButton = ({ logo, phone, message, width, height }: Props) => {
     )
 }
 
-WhatsappButton.PropTypes = {
+WhatsappButton.propTypes = {
     logo: PropTypes.string.isRequired,
     phone: PropTypes.string.isRequired,
     message: PropTypes.string,

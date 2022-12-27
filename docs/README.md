@@ -1,11 +1,12 @@
 ## Whatsapp-button
 
-Whatsapp- button es un componente que le permitira ver al cliente recibir una asesoria personalizada por medio de la red social whatsapp, linea que tenga disponible la tienda, para esta atencion
- ## vista del componente
+Whatsapp- button es un componente que le permitira al cliente recibir una asesoria personalizada por medio de la red social Whatsapp, en la linea que tenga disponible la tienda, para esta atencion.
+
+## Vista del componente
 
 ![whatsapp-button](https://user-images.githubusercontent.com/97923792/209361033-9524fff0-0217-41ac-932f-7a1a00b1c947.jpg)
 
-## CONFUGURACION 
+## CONFIGURACION 
 
 ### Primero - Configuración Básica 
 
